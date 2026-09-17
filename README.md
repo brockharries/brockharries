@@ -10,4 +10,4 @@ These repos are my infrastructure written up the way a solutions engineer works:
 
 Also running at home: a 4-node Proxmox cluster, a self-hosted AI assistant with retrieval over my own docs, and more services than I probably need.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/brock-harries-663359417/).
+Find me on [LinkedIn](https://www.linkedin.com/in/brock-harries-663359417/), or see the demo site at [brockharries.dev](https://brockharries.dev), served from my own rack through the zero inbound ports design in the first repo.
