@@ -1,6 +1,6 @@
 # Brock Harries
 
-I've run a $3M restaurant end to end for eight years, and I built its web and ordering infrastructure, its network and its accounts myself, because there was nobody else to do it. Somewhere along the way the technology stopped being the chore and became the job I wanted.
+I've run a multi-million dollar restaurant end to end for eight years, and I built its web and ordering infrastructure, its network and its accounts myself, because there was nobody else to do it. Somewhere along the way the technology stopped being the chore and became the job I wanted.
 
 These repos are my infrastructure, written up the way I'd explain a design to someone deciding whether to trust it: the problem, the design, the trade-offs, and what changes at scale.
 
