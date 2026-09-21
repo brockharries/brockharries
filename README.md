@@ -4,6 +4,7 @@ I've run a $3M restaurant end to end for eight years, and I built its web and or
 
 These repos are my infrastructure, written up the way I'd explain a design to someone deciding whether to trust it: the problem, the design, the trade-offs, and what changes at scale.
 
+- [ai-agent-engineering](https://github.com/brockharries/ai-agent-engineering): how I directed AI coding agents to take a multiplayer game from an empty repo to working playtests in twelve days, with the method, the measured results and the failures
 - [nextcloud-cloudflare-tunnel](https://github.com/brockharries/nextcloud-cloudflare-tunnel): a self-hosted platform publicly reachable with zero open inbound ports, threat model included
 - [restaurant-web-infrastructure](https://github.com/brockharries/restaurant-web-infrastructure): the production stack that runs a real business, with the incident runbook and tested backups
 - [vlan-segmented-network-security](https://github.com/brockharries/vlan-segmented-network-security): a six-VLAN network with default-deny firewall policy and DNS as a security control
