@@ -1,6 +1,6 @@
 # Brock Harries
 
-Operator turned solutions engineer. I ran a $3M restaurant end to end for seven years, built its web and ordering infrastructure myself because there was nobody else to do it, and somewhere along the way the technology stopped being the chore and became the job I wanted.
+Operator turned solutions engineer. I ran a $3M restaurant end to end for eight years, built its web and ordering infrastructure myself because there was nobody else to do it, and somewhere along the way the technology stopped being the chore and became the job I wanted.
 
 These repos are my infrastructure written up the way a solutions engineer works: problem, design, the trade-offs, and what changes at scale.
 
