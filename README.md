@@ -11,4 +11,4 @@ These repos are my infrastructure, written up the way I'd explain a design to so
 
 Also running at home: a four-node Proxmox cluster, monitoring that pages me, offsite backups, and a self-hosted AI assistant with retrieval over my own docs. I build most of the automation around it with AI coding tools, and I check their work against the live system before I trust it.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/brock-harries-663359417/), or see the demo site at [brockharries.dev](https://brockharries.dev), served from my own rack through the zero inbound ports design in the first repo.
+Find me on [LinkedIn](https://www.linkedin.com/in/brock-harries-663359417/), or see the demo site at [brockharries.dev](https://brockharries.dev), served from my own rack through the zero inbound ports design in the Nextcloud repo.
